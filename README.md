@@ -1,6 +1,13 @@
 # Salesforce Agentforce Telegram Bot
 
+[![GitHub](https://img.shields.io/github/license/suhel-pasha/salesforce-agentforce-telegram-bot)](https://github.com/suhel-pasha/salesforce-agentforce-telegram-bot/blob/master/LICENSE)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/suhel-pasha/salesforce-agentforce-telegram-bot?style=social)](https://github.com/suhel-pasha/salesforce-agentforce-telegram-bot)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/suhel-pasha/salesforce-agentforce-telegram-bot/blob/master/CONTRIBUTING.md)
+
 A powerful integration that connects Salesforce Agentforce agents with Telegram, enabling intelligent conversational AI experiences directly in Telegram chats.
+
+**🔗 [Quick Start](QUICKSTART.md)** | **📚 [Documentation](PROJECT_SUMMARY.md)** | **🚀 [Deployment Guide](DEPLOYMENT.md)** | **🤝 [Contributing](CONTRIBUTING.md)**
 
 ## 🚀 Features
 
